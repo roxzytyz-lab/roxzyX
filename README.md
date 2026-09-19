@@ -1,0 +1,2 @@
+# roxzyX
+INI UNTUK RAW SC BUG
