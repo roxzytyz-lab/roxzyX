@@ -1,3 +1,5 @@
-[
-8645657468:AAHD2Jd9i3Gvtx9bxm965PLPbmhr6psHkXc
-]
+{
+  "tokens": [
+    "9214573471:AAHBcbe9ijhNXnwuFUdyat6OghoXEDg49a0"
+  ]
+}
